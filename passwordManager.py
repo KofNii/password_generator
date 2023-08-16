@@ -4,6 +4,7 @@ from string import ascii_letters, digits
 from random import choice
 from cryptography.fernet import Fernet
 
+
 class Manager_GUI:
     def __init__(self):
         
